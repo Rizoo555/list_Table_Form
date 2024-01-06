@@ -1,0 +1,52 @@
+/* unordered list */
+/* ul{
+list-style-type: circle;
+} */
+
+/* ordered list */
+/* ol{
+    list-style-type: decimal-leading-zero;
+} */
+
+/* images for bullets */
+/* ul{
+    list-style-image: url("./images/red\ apple.jpeg");
+}
+ul {
+    margin: 10px 0px 0px 0px;
+} */
+ 
+/* list style position */
+/* .illuminations{
+    list-style-position: outside;
+}
+.season{
+    list-style-position: inside;
+} */
+/* list shorthand */
+/* ul{
+    list-style: inside square;
+} */
+
+/* table properties */
+/* table{
+ width: 400px;
+ border: 1px;
+ padding: 20px;
+ text-transform: lowercase;
+ letter-spacing: ;   
+} */
+
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;}
+    table.one {
+    empty-cells: show;}
+    table.two {
+    empty-cells: hide;
+} */
+
+/* caps between cells */
+/* #ln{
+    margin-top: 10px;
+} */
